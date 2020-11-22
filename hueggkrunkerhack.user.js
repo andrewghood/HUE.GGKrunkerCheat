@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name HUE.GG Krunker Hack 
 // @description Hue.gg aimbot/hacks modmenu
-// @version 1.84
+// @version 2.0.0
 // @author Hue Dev Team
 // @match *.krunker.io/*
 // @exclude *.krunker.io/social*
