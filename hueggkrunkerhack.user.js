@@ -1,9 +1,11 @@
 // ==UserScript==
-// @name HUE.GG Krunker Hack 
+// @name HUE.GG Krunker 
 // @description Hue.gg aimbot/hacks modmenu
 // @version 2.0.0
 // @author Hue Dev Team
 // @match *.krunker.io/*
+// @updateURL https://github.com/DarkDevvv/HUE.GGKrunkerCheat/raw/main/hueggkrunkerhack.user.js
+// @icon https://cdn.discordapp.com/attachments/772675062411034655/779922250870161468/hue_circle.png
 // @exclude *.krunker.io/social*
 // @run-at document-start
 // @grant none
